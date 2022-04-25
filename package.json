@@ -1,0 +1,11 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc --watch"
+  },
+  "author": "Digital_Knight",
+  "license": "ISC"
+}
